@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Letizia Granata and I'm a passionate developer and a AI enthusiast based in Naples, Italy.</p>
+<p align="left">My name is Letizia Granata and I'm a passionate iOS developer based in Naples, Italy.</p>
 
 ###
 
