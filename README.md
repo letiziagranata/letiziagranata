@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My goal is to simplify people's life and to help them in the challenges they face everyday!<br><br>iOS Developer with a background in Linguistic and Cultural Mediation, able to quickly adapt to new technologies and development methodologies. I learned Swift and iOS development in just over a year and a half, developing several applications, managing several projects, and working in international teams. Thanks to my experience at the Apple Developer Academy and the Pier Program, I gained expertise in SwiftUI and Agile/Scrum methodologies, as well as strong p By combining a humanistic background with proficient IT competencies, I bring a unique blend of skills that are relevant and impactful in today's professional landscape.</p>
+<p align="left">My goal is to simplify people's life and to help them in the challenges they face everyday!<br><br>iOS Developer with a background in Linguistic and Cultural Mediation, able to quickly adapt to new technologies and development methodologies. I learned Swift and iOS development in just over a year and a half, developing several applications, managing several projects, and working in international teams. Thanks to my experience at the Apple Developer Academy and the Pier Program, I gained expertise in SwiftUI and Agile/Scrum methodologies, as well as strong communication and teamwork skills. By combining a humanistic background with proficient IT competencies, I bring a unique blend of skills that are relevant and impactful in today's professional landscape.</p>
 
 ###
 
