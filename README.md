@@ -18,12 +18,19 @@
 
 ###
 
-<p align="left"> Mobile Development: Swift, SwiftUI, native iOS development, Apple framework integration, data persistence, multimedia, graphics, and animations; JavaScript, TypeScript, React, and React Native for cross-platform development.
-\nTooling: Xcode, Git, GitHub, Swift Package Manager, REST APIs, SwiftDocC, npm/Node.js.
-\nMachine Learning/AI: Core ML and LLM integration, data preparation and management, Python.
-\nUI/UX: Human Interface Guidelines, design principles, accessibility.
-\nWorkflow: Agile, Scrum, Jira.
-\nTechnical Writing </p>
+<p align="left">
+<strong>Mobile Development:</strong> Swift, SwiftUI, native iOS development, Apple framework integration, data persistence, multimedia, graphics, and animations; JavaScript, TypeScript, React, and React Native for cross-platform development.<br><br>
+
+<strong>Tooling:</strong> Xcode, Git, GitHub, Swift Package Manager, REST APIs, SwiftDocC, npm/Node.js.<br><br>
+
+<strong>Machine Learning/AI:</strong> Core ML and LLM integration, data preparation and management, Python.<br><br>
+
+<strong>UI/UX:</strong> Human Interface Guidelines, design principles, accessibility.<br><br>
+
+<strong>Workflow:</strong> Agile, Scrum, Jira.<br><br>
+
+<strong>Technical Writing</strong>
+</p>
 
 ###
 
