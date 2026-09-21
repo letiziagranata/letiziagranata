@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Letizia Granata and I'm a passionate iOS developer based in Naples, Italy.</p>
+<p align="left">My name is Letizia Granata and I'm a passionate Mobile developer based in Naples, Italy.</p>
 
 ###
 
@@ -19,11 +19,11 @@
 ###
 
 <p align="left"> Mobile Development: Swift, SwiftUI, native iOS development, Apple framework integration, data persistence, multimedia, graphics, and animations; JavaScript, TypeScript, React, and React Native for cross-platform development.
-Tooling: Xcode, Git, GitHub, Swift Package Manager, REST APIs, SwiftDocC, npm/Node.js.
-Machine Learning/AI: Core ML and LLM integration, data preparation and management, Python.
-UI/UX: Human Interface Guidelines, design principles, accessibility.
-Workflow: Agile, Scrum, Jira.
-Technical Writing </p>
+\nTooling: Xcode, Git, GitHub, Swift Package Manager, REST APIs, SwiftDocC, npm/Node.js.
+\nMachine Learning/AI: Core ML and LLM integration, data preparation and management, Python.
+\nUI/UX: Human Interface Guidelines, design principles, accessibility.
+\nWorkflow: Agile, Scrum, Jira.
+\nTechnical Writing </p>
 
 ###
 
